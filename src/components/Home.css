@@ -1,0 +1,14 @@
+#sidebar-wrapper{
+    height: 100vh;
+    background-color: #763ebe; 
+    overflow-y: auto; 
+    border-radius:2px 3px 3px 4px; ;  
+}
+
+#page-content-wrapper{
+    background-color: #ff9696;
+    height: 150px;
+    max-width: 100%;
+    border-radius: 2px 3px 3px 4px;
+
+}

@@ -1,0 +1,22 @@
+.header{
+    background-color:#ff9696;
+    height: 200px;
+    width: 100%;
+    display: flex;
+}
+
+
+.img{
+    background: url("./music.svg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    overflow: auto;    
+    height: 120px;
+    width: 300px; 
+}
+
+.text{
+    float: right;
+    text-align: right;
+    
+}
